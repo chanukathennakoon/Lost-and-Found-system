@@ -47,6 +47,9 @@ npm start
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/e93fbd72-3904-4c83-8063-4d884501c826)
+
+
 ![image](https://github.com/user-attachments/assets/e9b436a0-23f5-4b27-b6f6-aed8f17415f7)
 
 ![image](https://github.com/user-attachments/assets/775d71a0-d124-405f-910d-a7f9cc60ee39)
